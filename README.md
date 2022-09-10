@@ -1,6 +1,8 @@
 # Python
 # What is this repo?
 ### In this Repo, i will only update cool and interesting python scripts and many small/big projects. Stay tuned with community. And you will never find any python repository like this.👾 <br>
+
+🍪 Cookies for all contributors as well~
 # What do we have ?
 So far, the following projects have been integrated to this repository.
 | Name Of The Project | Contributors |
